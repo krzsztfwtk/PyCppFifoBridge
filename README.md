@@ -13,7 +13,7 @@ File PipeServer.hpp implements the C++ PipeServer class. Main function in exampl
 ## Building and Running
 
 ```bash
-g++ example.cpp PiperServer.hpp -o server
+g++ example.cpp PipeServer.hpp -o server
 ./server
 python example.py
 ```
