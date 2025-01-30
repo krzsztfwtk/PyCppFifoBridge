@@ -1,0 +1,12 @@
+*.o
+main
+*.so
+
+__pycache__/
+*.pyc
+*.pyo
+
+.DS_Store
+Thumbs.db
+
+.vscode
